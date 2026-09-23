@@ -11,3 +11,8 @@ def add(x,y):
 # multiple funcion
 def multiple(x,y):
     print(x*y)
+
+
+print ("welcome to the calc short for calulator")
+print ("what we doin")
+print("Type (a)dd (s)ubtract (m)ultiply (d)ivide (q)uit")
